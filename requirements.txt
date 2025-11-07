@@ -1,0 +1,24 @@
+# LFlow - LLM流量安全分析工作流
+# 核心依赖包
+
+# Meilisearch 客户端
+meilisearch>=0.31.0
+
+# YAML 解析
+PyYAML>=6.0
+
+# HTTP 请求
+requests>=2.31.0
+
+# 配置管理
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+
+# 日志增强（可选）
+colorlog>=6.7.0
+
+# 开发工具（可选）
+# pytest>=7.4.0
+# black>=23.0.0
+# flake8>=6.0.0
+
